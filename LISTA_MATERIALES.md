@@ -34,6 +34,7 @@
   - [ ] Right-angle Mini GSM/Cellular Quad-Band Antenna - 2dBi SMA Plug.
 - [ ] Lithium Ion Polymer Battery - 3.7v 1200mAh
 - [ ] Cell-phone TRRS Headset - Earbud Headphones w/ Microphone.
+- [ ] Multimetro digital que mida al menos resistencia, voltaje, corriente, continuidad y transistores (opcional pero recomendado).
 
 ### Lugares a comprar los componentes:
 - [ ] [CRCibernetica](http://www.crcibernetica.com) en Paseo Colon.
