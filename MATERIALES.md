@@ -3,37 +3,44 @@
 - [ ] Arduino UNO R3 (o similar) con cable USB.
 - [ ] Protoboard pequeña de al menos 8.3x5.5cm.
 - [ ] Cables jumpers macho/macho.
+- [ ] Cables jumpers macho/hembra.
 - [ ] 10x LEDs Rojos (u otro color) 5mm. 
 - [ ] 10x LEDs Azules (u otro color) 5mm.
 - [ ] 10x LEDs Amarillos (u otro color) 5mm.
 - [ ] 10x Resistencias 220Ω, 1kΩ 1/2W.
 - [ ] 3x Botones pulsadores pequeños 2 o 4 patas.
-- [ ] 3x Potenciometros 10KΩ.
-- [ ] 1x Ventilador de computadora 12V .
+- [ ] 1x Potenciometros 10KΩ.
+- [ ] 1x Ventilador de computadora 12V.
 - [ ] 2x portabaterias 4xAA y 6 Baterias AA alcalinas.
 - [ ] Transistor de poder NPN MJ182 o similar.
 - [ ] Sensor ultrasonico HC-SR04.
+- [ ] Mini fotocelda (LDR).
 - [ ] Buzzer pasivo.
 - [ ] Display de 7 segmentos catodo común.
+- [ ] Display 7 segmentos 4 Digitos.
 - [ ] LED infrarrojo.
 - [ ] Receptor infrarrojo (TSOP382 o similiar).
 - [ ] Relay 5V de entrada y 10A salida.
+- [ ] 2x Base de bombillo ceramico 120V
+- [ ] 2x Bombillo 120V 7W.
+- [ ] 1m cable TSJ 2x18 preferiblemente (o 2x16).
+- [ ] enchufe 2 polos.
 - [ ] 2x Motor 6V DC.
 - [ ] Controlador Cuadruple Puente H (L293D o similiar)
-- [ ] Matriz LED 8x8.
+- [ ] Dot Matriz LED 8x8.
 - [ ] Modulo Joystick.
-- [ ] Display 7 segmentos 4 Digitos.
 - [ ] Shift register 8-bit (SN7HC595 o similar).
-- [ ] 3x Micro servomotores.
-- [ ] 3x Capacitores electroliticos 1000uF.
+- [ ] 2x Micro servomotores.
+- [ ] 2x Capacitores electroliticos 1000uF.
 - [ ] Display LCD 1602 (o similiar)
 - [ ] Modulo WiFi ESP8266
-- [ ] Modulo Bluetooth esclavo (HC-06 o similiar)
+- [ ] Modulo Bluetooth maestro/esclavo (HC-05 o similiar)
 - [ ] Adafruit FONA 800 starter pack:
   - [ ] FONA 800 Mini Cellular Breakout Board.
   - [ ] Right-angle Mini GSM/Cellular Quad-Band Antenna - 2dBi SMA Plug.
 - [ ] Lithium Ion Polymer Battery - 3.7v 1200mAh
-- [ ] Cell-phone TRRS Headset - Earbud Headphones w/ Microphone.
+- [ ] Mano libres con conector de audio.
+- [ ] Tarjeta SIM prepago con saldo disponible (o postpago).
 - [ ] Multimetro digital que mida al menos resistencia, voltaje, corriente, continuidad y transistores (opcional pero recomendado).
 
 ### Lugares a comprar los componentes:
