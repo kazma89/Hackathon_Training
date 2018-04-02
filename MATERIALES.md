@@ -33,7 +33,6 @@
 - [ ] Display LCD 1602 (o similiar).
 - [ ] Modulo WiFi ESP8266.
 - [ ] Modulo Bluetooth maestro/esclavo (HC-05 o similiar).
-- [ ] Multimetro digital que mida al menos resistencia, voltaje, corriente, continuidad y transistores (opcional pero recomendado).
 
 ### Lugares sugeridos para comprar los componentes:
 - [ ] [CRCibernetica](http://www.crcibernetica.com) en Paseo Colon.
