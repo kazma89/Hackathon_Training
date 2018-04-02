@@ -17,7 +17,7 @@
 - [ ] Mini fotocelda (LDR).
 - [ ] Buzzer pasivo.
 - [ ] Display de 7 segmentos catodo común.
-- [ ] Display 7 segmentos 4 Digitos.
+- [ ] Display 7 segmentos 4 Digitos catodo común.
 - [ ] LED infrarrojo.
 - [ ] Receptor infrarrojo (TSOP382 o similiar).
 - [ ] Relay 5V de entrada y 10A salida.
@@ -32,9 +32,9 @@
 - [ ] Shift register 8-bit (SN7HC595 o similar).
 - [ ] 2x Micro servomotores.
 - [ ] 2x Capacitores electroliticos 1000uF.
-- [ ] Display LCD 1602 (o similiar)
-- [ ] Modulo WiFi ESP8266
-- [ ] Modulo Bluetooth maestro/esclavo (HC-05 o similiar)
+- [ ] Display LCD 1602 (o similiar).
+- [ ] Modulo WiFi ESP8266.
+- [ ] Modulo Bluetooth maestro/esclavo (HC-05 o similiar).
 - [ ] Adafruit FONA 800 starter pack:
   - [ ] FONA 800 Mini Cellular Breakout Board.
   - [ ] Right-angle Mini GSM/Cellular Quad-Band Antenna - 2dBi SMA Plug.
@@ -43,7 +43,7 @@
 - [ ] Tarjeta SIM prepago con saldo disponible (o postpago).
 - [ ] Multimetro digital que mida al menos resistencia, voltaje, corriente, continuidad y transistores (opcional pero recomendado).
 
-### Lugares a comprar los componentes:
+### Lugares sugeridos para comprar los componentes:
 - [ ] [CRCibernetica](http://www.crcibernetica.com) en Paseo Colon.
 - [ ] [MicroJPM](https://www.microjpm.com) en Cartago.
 - [ ] [Laboratorio.cr](http://laboratorio.cr/shop/) en el Mall San Pedro.
